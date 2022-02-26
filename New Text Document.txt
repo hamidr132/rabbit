@@ -1,0 +1,2 @@
+https://dotnetdetail.net/microservices-communication-using-rabbitmq-in-asp-net-core/
+https://kaushikroychowdhury.com/blog/microservice-communication-in-asp-net-5-with-rabbitmq/#google_vignette
